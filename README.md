@@ -2,9 +2,9 @@
   <a href="https://github.com/thiagogre/MyVersion/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/MyVersion">
   </a>
-    
+  <a href="https://github.com/thiagogre/MyVersion/blob/master/LICENSE">  
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
+  </a>
    <a href="https://github.com/thiagogre/MyVersion/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/MyVersion?style=social">
   </a>
