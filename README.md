@@ -32,7 +32,7 @@
 ## 💻 About the project
 
 My version of project made on [NextLevelWeek 2.0](https://nextlevelweek.com/inscricao/2)
-by [Rockseat](https://rocketseat.com.br/). 
+by [Rocketseat](https://rocketseat.com.br/). 
 
 ---
 
@@ -49,8 +49,7 @@ by [Rockseat](https://rocketseat.com.br/).
 
 ### Pre-requisites
 
-Access [NextLevelWeek 2.0](https://nextlevelweek.com/inscricao/2)
-It is a good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
+Access [NextLevelWeek 2.0](https://nextlevelweek.com/inscricao/2). It is a good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 
 #### 🧭 Running the code
