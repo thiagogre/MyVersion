@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thiagogre/MyVersion/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/MyVersin">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/MyVersion">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -68,10 +68,9 @@ $ cd MyVersion
 
 The following tech were used in the construction of the project:
 
-#### *Web*
--   **[Html](https://www.w3schools.com/html/)**
--   **[CSS](https://www.w3schools.com/css/)**
--   **[Javascript](https://www.w3schools.com/js/)**
+-   HTML
+-   CSS
+-   JavaScript
 
 ---
 
