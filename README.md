@@ -38,10 +38,13 @@ by [Rocketseat](https://rocketseat.com.br/).
 
 ## ⚙️ Days
 
-### Mon, August 3
-
-- [x] HTML scope start
-- [x] CSS scope start
+- [x] Monday, August 3
+- [ ] Tuesday, August 4
+- [ ] Wednesday, August 5
+- [ ] Thursday, August 6
+- [ ] Friday, August 7
+- [ ] Saturday, August 8
+- [ ] Sunday, August 9
 
 ---
 
