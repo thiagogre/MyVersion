@@ -39,6 +39,7 @@ body {
 body {
 
     background-color: var(--color-background);
+    color: var(--color-text-in-primary);
     display: flex; /*display block == quebra a linha*/
     align-items: center;
     justify-content: center;
@@ -50,7 +51,6 @@ button,
 textarea {
     /* font: weight size family */
     font: 500 1.6rem Poppins;
-    color: var(--color-text-in-primary);
 }
 
 #container {

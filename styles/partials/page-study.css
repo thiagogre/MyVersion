@@ -84,7 +84,7 @@
 .select-block label,
 .input-block label {
     font-size: 1.4rem;
-    color: var(--color-text-complement);
+    color: black;
 }
 
 .input-block input,
