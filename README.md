@@ -46,7 +46,7 @@ by [Rocketseat](https://rocketseat.com.br/).
 - [ ] Thursday, August 6
 - [ ] Friday, August 7
 - [ ] Saturday, August 8
-- [ ] Sundday, August 9
+- [ ] Sunday, August 9
 
 ---
 
