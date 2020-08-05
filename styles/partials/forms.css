@@ -37,8 +37,7 @@
     position: relative;
     margin: 0;
 }
-.input-block:focus-within::after,
-.textarea-block:focus-within::after {
+.input-block:focus-within::after {
     content:"";
 
     width: calc(100% - 3.2rem);
