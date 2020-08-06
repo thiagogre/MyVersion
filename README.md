@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/thiagogre/MyVersion/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/MyVersion">
+  <a href="https://github.com/thiagogre/proffy/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/proffy">
   </a>
     
-   <a href="https://github.com/thiagogre/MyVersion/blob/master/LICENSE">  
+   <a href="https://github.com/thiagogre/proffy/blob/master/LICENSE">  
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    </a>
 
-   <a href="https://github.com/thiagogre/MyVersion/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/MyVersion?style=social">
+   <a href="https://github.com/thiagogre/proffy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/proffy?style=social">
   </a>
 
   <a href="https://www.linkedin.com/in/thiago-gregório-4b1a331a3/">
@@ -62,10 +62,10 @@ It is a good to have an editor to work with the code like [VSCode](https://code.
 
 ```
 # Clone this repository
-$ git clone https://github.com/thiagogre/MyVersion.git
+$ git clone https://github.com/thiagogre/proffy.git
 
 # Access the project folder in your terminal
-$ cd MyVersion
+$ cd proffy
 
 # Install Node.js LTS (v12.x) on Ubuntu
 $ curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
