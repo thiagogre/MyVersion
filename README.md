@@ -66,6 +66,16 @@ $ git clone https://github.com/thiagogre/MyVersion.git
 
 # Access the project folder in your terminal
 $ cd MyVersion
+
+# Install Node.js LTS (v12.x) on Ubuntu
+$ curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+
+# Run the server
+$ npm run dev
+
+# In your browser go to http://127.0.0.1:5500/
+
 ```
 ---
 
