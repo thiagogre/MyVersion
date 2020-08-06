@@ -79,6 +79,9 @@ $ npm run dev
 
 # In your browser go to (http://127.0.0.1:5500/)
 
+# For stop running server
+$ Ctrl + C
+# Or reboot your machine
 ```
 ---
 
