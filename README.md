@@ -44,7 +44,7 @@ by [Rocketseat](https://rocketseat.com.br/).
 - [x] Tuesday, August 4
 - [x] Wednesday, August 5
 - [x] Thursday, August 6
-- [ ] Friday, August 7
+- [x] Friday, August 7
 - [ ] Saturday, August 8
 - [ ] Sunday, August 9
 
@@ -61,15 +61,20 @@ It is a good to have an editor to work with the code like [VSCode](https://code.
 #### 🧭 Running the code
 
 ```
+# Install Node.js LTS (v12.x) on Ubuntu
+$ curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+
+# Install SQLite Packages
+$ sudo apt install sqlite
+
+# Install SQLite Extension on VSCode
+
 # Clone this repository
 $ git clone https://github.com/thiagogre/proffy.git
 
 # Access the project folder in your terminal
 $ cd proffy
-
-# Install Node.js LTS (v12.x) on Ubuntu
-$ curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-$ sudo apt-get install -y nodejs
 
 # Install npm
 $ npm install
@@ -91,6 +96,8 @@ The following tech were used in the construction of the project:
 -   HTML
 -   CSS
 -   JavaScript
+-   SQLite
+-   Node.js
 
 ---
 
