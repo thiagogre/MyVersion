@@ -15,9 +15,9 @@
     <img alt="Built by Thiago" src="https://img.shields.io/badge/built%20by-Thiago%20Gregorio-%237519C1">
   </a>
 </p>
-<h1 align="center">
-    <img alt="Proffy" title="#Proffy" src=" ./assets/page-landing.png" />
-</h1>
+<p align="center" style="display: block; align-items: center;">
+  <img alt="Gif demonstration" title="#Proffy" src="./assets/page-landing.png" width="600px">
+</p>
 
 <h4 align="center"> 
 	🚧 NextLevelWeek 🚧 In Progress... 🚀
