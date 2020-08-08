@@ -48,8 +48,6 @@ by [Rocketseat](https://rocketseat.com.br/).
 - [x] Wednesday, August 5
 - [x] Thursday, August 6
 - [x] Friday, August 7
-- [ ] Saturday, August 8
-- [ ] Sunday, August 9
 
 ---
 
