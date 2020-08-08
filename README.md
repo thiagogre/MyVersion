@@ -11,7 +11,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/proffy?style=social">
   </a>
 
-  <a href="https://www.linkedin.com/in/thiago-gregório-4b1a331a3/">
+  <a href="https://www.linkedin.com/in/ThiagoLuizGregorio/">
     <img alt="Built by Thiago" src="https://img.shields.io/badge/built%20by-Thiago%20Gregorio-%237519C1">
   </a>
 </p>
