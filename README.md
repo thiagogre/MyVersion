@@ -11,7 +11,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/proffy?style=social">
   </a>
 
-  <a href="https://www.linkedin.com/in/ThiagoLuizGregorio/">
+  <a href="https://www.linkedin.com/in/thiagogre/">
     <img alt="Built by Thiago" src="https://img.shields.io/badge/built%20by-Thiago%20Gregorio-%237519C1">
   </a>
 </p>
@@ -132,7 +132,7 @@ You can send me as many PR's as you want, I will be honored to review and accept
  <sub><b>Thiago Gregorio</b></sub>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ThiagoLuizGregorio/)](https://www.linkedin.com/in/ThiagoLuizGregorio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagogre/)](https://www.linkedin.com/in/thiagogre/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiagoluiz_16@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoluiz_16@hotmail.com)](mailto:thiagoluiz_16@hotmail.com)
 
 ---
