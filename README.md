@@ -18,7 +18,13 @@
 <p align="center" style="display: block; align-items: center;">
   <img alt="Gif demonstration" title="#Proffy" src="./assets/page-landing.png" width="600px">
 </p>
-
+<p align="center">
+  <img align="center" alt="with_love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img align="center" alt="html" src="https://forthebadge.com/images/badges/uses-html.svg" />
+  <img align="center" alt="css" src="https://forthebadge.com/images/badges/uses-css.svg" />
+  <img align="center" alt="js" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+<p>
+	
 <h4 align="center"> 
 	🚧 NextLevelWeek 🚧 In Progress... 🚀
 </h4>
